@@ -2,14 +2,16 @@
 
 A [Processing](http://processing.org/) bundle for [Sublime Text
 2](http://www.sublimetext.com/2). Check the [demo
-video](https://vimeo.com/45573600) on Vimeo! Please note: you must have
-Processing 2.0b6 or greater, otherwise the Build System of the bundle won't
-work. The video is a bit outdated, you  no longer need to have the Processing
-application open to run sketches. If, for any reason, you work with and older
-version of Processing, e.g., 1.5.1, you can use the [old
-version](https://github.com/b-g/processing-sublime/tags) of this package.
+video](https://vimeo.com/45573600) on Vimeo!
 
-<a href="https://vimeo.com/45573600" target="_blank"><img src="https://github.com/arturhoo/processing-sublime/raw/master/Images/overview.png"></a>
+Please note: you must have Processing 2.0b6 or greater, otherwise the Build
+System of the bundle won't work. The video is a bit outdated, you  no longer
+need to have the Processing application open to run sketches. If, for any
+reason, you work with and older version of Processing, e.g., 1.5.1, you can use
+the [old version](https://github.com/b-g/processing-sublime/tags) of this
+package.
+
+<a href="https://vimeo.com/45573600" target="_blank"><img src="https://github.com/b-g/processing-sublime/raw/master/Images/overview.png"></a>
 
 
 ## Configuration
@@ -19,7 +21,7 @@ version](https://github.com/b-g/processing-sublime/tags) of this package.
 The `processing-java` command line tool must be installed from within the
 Processing.app. From the menu bar, select `Tools -> Install "processing-java"`.
 
-![processing-java command line tool](https://github.com/arturhoo/processing-sublime/raw/master/Images/processing_preferences.png)
+![processing-java command line tool](https://github.com/b-g/processing-sublime/raw/master/Images/processing_preferences.png)
 
 ### Linux
 
@@ -43,7 +45,7 @@ application is located:
 
 ## Installation
 
-There are 3 easy ways to install the Processing Bundle:
+There are 3 easy ways to install Processing Bundle:
 
 ### Using the Sublime Package Control
 
@@ -90,8 +92,8 @@ If you are new to Sublime, the excellent and free video tutorial by nettuts is
 recommended: [Perfect Workflow in Sublime
 Text](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-
 free-course/). If you are short on time, then make sure you watch at least the
-lesson [Multiple Cursors and Incremental Search]( https://tutsplus.com/lesson
-/multiple-cursors-and-incremental-search/) (~6min), highly recommended!
+[Multiple Cursors and Incremental Search]( https://tutsplus.com/lesson
+/multiple-cursors-and-incremental-search/) lesson (~6min), highly recommended!
 
 ## Acknowledgements
 
