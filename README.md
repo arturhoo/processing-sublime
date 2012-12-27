@@ -6,10 +6,10 @@ video](https://vimeo.com/45573600) on Vimeo! Please note: you must have
 Processing 2.0b6 or greater, otherwise the Build System of the bundle won't
 work. The video is a bit outdated, you  no longer need to have the Processing
 application open to run sketches. If, for any reason, you work with and older
-version of Processing, e.g. 1.5.1, you can use the [old
+version of Processing, e.g., 1.5.1, you can use the [old
 version](https://github.com/b-g/processing-sublime/tags) of this package.
 
-<a href="https://vimeo.com/45573600" target="_blank"><img src="https://github.com/b-g/processing-sublime/raw/master/Images/overview.png"></a>
+<a href="https://vimeo.com/45573600" target="_blank"><img src="https://github.com/arturhoo/processing-sublime/raw/master/Images/overview.png"></a>
 
 
 ## Configuration
@@ -19,7 +19,7 @@ version](https://github.com/b-g/processing-sublime/tags) of this package.
 The `processing-java` command line tool must be installed from within the
 Processing.app. From the menu bar, select `Tools -> Install "processing-java"`.
 
-![processing-java command line tool](https://github.com/b-g/processing-sublime/raw/master/Images/processing_preferences.png)
+![processing-java command line tool](https://github.com/arturhoo/processing-sublime/raw/master/Images/processing_preferences.png)
 
 ### Linux
 
@@ -66,7 +66,7 @@ the command below:
 
 - Download the files using the GitHub .zip download option
 - Unzip the files and rename the folder to `Processing`
-- Copy the folder to your Sublime Text 2 `Packages` directory, e.g. OS X:
+- Copy the folder to your Sublime Text 2 `Packages` directory, e.g., OS X:
   `~/Library/Application Support/Sublime Text 2/Packages/Processing`
 
 
